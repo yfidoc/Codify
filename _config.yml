@@ -4,14 +4,14 @@ baseurl: /Codify/
 # Site settings
 title: Codify
 email: support@digifaire.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Codify is a coding club, and provides coding services to clients."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Arianne Ghislaine Rull 
   pic: 1
-  position: Lead Designer
+  position: Founder
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Raju Basumatary
   pic: 2
-  position: Lead Marketer
+  position: Founder 
   social:
     - title: twitter
       url: #
@@ -53,12 +53,12 @@ social:
   - title: bitbucket 
     url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/yfidoc
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 
+  - line: Toronto
 
 # Build settings
 markdown: kramdown
