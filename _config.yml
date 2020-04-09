@@ -12,47 +12,47 @@ people:
 - name: Arianne Ghislaine Rull 
   pic: 1
   position: Founder
-  social:
-    - title: twitter
-      url: #
-    - title: #
-      url: #
-    - title: #
-      url: #
+  # social:
+    # title: twitter
+     # url: #
+     # title: #
+     # url: #
+     # title: #
+     # url: #
 
 - name: Raju Basumatary
   pic: 2
   position: Founder 
-  social:
-    - title: #
-      url: #
-    - title: #
-      url: #
-    - title: #
-      url: #
+  # social:
+    # title: #
+    #  url: #
+    # title: #
+    # url: #
+    # title: #
+    # url: #
 
 - name: Open
   pic: 3
   position: Chief Executive Officer
-  social:
-    - title: #
-      url: #
-    - title: #
-      url: #
-    - title: #
-      url: #
+  # social:
+    # title: #
+    #  url: #
+    # title: #
+    #  url: #
+    # title: #
+    #  url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: #
-    url: #
-  - title: #
-    url: #
-  - title: #
-    url: #
-  - title: #
-    url: #
-  - title: Github
+ social:
+  # title: #
+  #  url: #
+  # title: #
+  # url: #
+  # title: #
+  # url: #
+  # title: #
+  # url: #
+  - title: github
     url: https://github.com/yfidoc
 
 # Postal address (add as many lines as necessary)
