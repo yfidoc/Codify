@@ -15,44 +15,44 @@ people:
   social:
     - title: twitter
       url: #
-    - title: facebook
+    - title: #
       url: #
-    - title: stack-overflow
+    - title: #
       url: #
 
 - name: Raju Basumatary
   pic: 2
   position: Founder 
   social:
-    - title: twitter
+    - title: #
       url: #
-    - title: facebook
+    - title: #
       url: #
-    - title: linkedin
+    - title: #
       url: #
 
-- name: Diana Petersen
+- name: Open
   pic: 3
-  position: Lead Developer
+  position: Chief Executive Officer
   social:
-    - title: twitter
+    - title: #
       url: #
-    - title: facebook
+    - title: #
       url: #
-    - title: google-plus
+    - title: #
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
+  - title: #
+    url: #
+  - title: #
+    url: #
+  - title: #
+    url: #
+  - title: #
+    url: #
+  - title: Github
     url: https://github.com/yfidoc
 
 # Postal address (add as many lines as necessary)
