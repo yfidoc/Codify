@@ -1,0 +1,17 @@
+---
+title: Codify
+subtitle: Quora Community
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: codify_q.jpg
+thumbnail: codify_q-thumbnail.png
+<!-- 
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+-->
+category: Digital Community
+description: Codify is a community on Quora with over 25K fans, which include the spectrum of the developer community.
+
+---
